@@ -102,7 +102,7 @@ Campus Network with your 4M accounts.
 1. Input your log information:
    open loggers/ecust_logger/formdata.txt with any editor,
    change the information according your own need, 
-   e.g. username, password ...
+   e.g. username, password, etc...
 
 2. If you want to run this script with your computer booting,
    add the shortcut of 'run.bat' to your startup directory, for example
